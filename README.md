@@ -1,4 +1,8 @@
-# React + Vite
+# Password generator app
+
+This app enables users to generate up to 3 passwords, with the ability to choose between including numbers and special characters, or excluding confusing characters, and adjust the length of the passwords. When the password settings are adjusted, the UI displays the strength of the passwords.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
